@@ -1,7 +1,9 @@
 # React app (Modulo 9)
 ## Práctica integradora / Digital House
 
-<img src="">
+<a href="https://github.com/YonPalac1/React_app-M9/blob/master/public/M09C01%20-%20Ejercitaci%C3%B3n%20-%20Creando%20una%20aplicaci%C3%B3n%20con%20React.pdf">Ver PDF del ejercicio</a>
+
+<img src="https://github.com/YonPalac1/React_app-M9/blob/master/public/img2.png">
 
 <hr/>
 # Getting Started with Create React App
