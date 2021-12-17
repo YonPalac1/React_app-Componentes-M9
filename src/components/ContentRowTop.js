@@ -2,6 +2,7 @@ import React from 'react';
 import ContentRowMovies from './ContentRowMovies';
 import GenresInDb from './GenresInDb';
 import LastMovieDb from './LastMovieDb';
+import Table from './Table';
 
 function ContentRowTop(){
     return(
@@ -25,6 +26,8 @@ function ContentRowTop(){
 
 						{/*<!-- Genres in DB -->*/}
 						<GenresInDb />
+						
+						<Table />
 					</div>
 				</div>
 				{/*<!--End Content Row Top-->*/}
